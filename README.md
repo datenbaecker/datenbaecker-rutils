@@ -1,2 +1,2 @@
-# datenbaecker_rutils
+# datenbaecker-rutils
 Some R utilities
