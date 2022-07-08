@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# Rproj file
+DatenbaeckerUtils.Rproj
+
 # Session Data files
 .RData
 
