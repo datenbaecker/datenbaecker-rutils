@@ -1,0 +1,4 @@
+Name: Exec SQL Query
+Description: Executes sql query in db conn from globalenv
+Binding: exec_selection
+Interactive: false
