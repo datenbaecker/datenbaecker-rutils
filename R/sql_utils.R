@@ -38,8 +38,8 @@ connect_postgres <- function(env_file = NULL) {
 #'
 #' @importFrom DBI dbGetQuery
 #'
-query <- function(stmt, conn) {
-  DBI::dbGetQuery(conn, stmt)
+query <- function(stmt, conn, ...) {
+  DBI::dbGetQuery(conn, stmt, ...)
 }
 
 search_db_conn <- function() {
